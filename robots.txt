@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monstorjohan-png.github.io/zoeya-beauty/sitemap.xml
